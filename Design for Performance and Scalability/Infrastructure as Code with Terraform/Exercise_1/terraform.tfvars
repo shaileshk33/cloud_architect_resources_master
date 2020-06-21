@@ -1,0 +1,9 @@
+aws_region              = "us-east-2"
+vpc_id                  = "vpc-990efcf2"
+subnet_id               = "subnet-08a4be60"
+key_name                = "tfkey_aws"
+public_key_path         = "/Users/lherrera/keys/tfkey_aws.pub"
+instance_type_t2        = "t2.micro"
+instance_type_m4        = "m4.large"
+instance_count_t2       = 4
+instance_count_m4       = 2

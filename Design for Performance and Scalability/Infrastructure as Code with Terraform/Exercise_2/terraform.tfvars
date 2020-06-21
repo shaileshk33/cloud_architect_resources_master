@@ -1,0 +1,5 @@
+aws_region              = "us-east-2"
+runtime                 = "python3.6"
+lambda_handler          = "lambda.lambda_handler"
+function_name           = "minimal_lambda_function"
+zip_filename            = "lambda.zip"
